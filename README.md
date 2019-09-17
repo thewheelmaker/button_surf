@@ -1,4 +1,4 @@
-# button_surf
+# BUTTON SURF
 It turns words to buttons, press one of the button go new random website suiting that words
 See this youtube video to see how it works:
 
